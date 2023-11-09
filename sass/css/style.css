@@ -1,0 +1,16 @@
+header {
+  background-color: aqua;
+}
+header img {
+  width: 100px;
+}
+header nav {
+  background-color: black;
+  padding: 100px;
+}
+header a {
+  background-color: black;
+  color: wheat;
+}
+
+/*# sourceMappingURL=style.css.map */
